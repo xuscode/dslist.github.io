@@ -1,0 +1,61 @@
+/**
+ * 响应式样式
+ */
+
+/* ============================================
+   平板设备
+   ============================================ */
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .header {
+        padding: 20px;
+    }
+
+    .header h1 {
+        font-size: 1.5em;
+    }
+
+    .main-content {
+        padding: 20px;
+    }
+
+    .radio-group {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .search-input-group {
+        flex-direction: column;
+    }
+
+    .results-table {
+        font-size: 0.9em;
+    }
+
+    .results-table th,
+    .results-table td {
+        padding: 8px 10px;
+    }
+}
+
+/* ============================================
+   手机设备
+   ============================================ */
+
+@media (max-width: 480px) {
+    .header h1 {
+        font-size: 1.3em;
+    }
+
+    .header p {
+        font-size: 0.9em;
+    }
+
+    .search-btn {
+        width: 100%;
+    }
+}

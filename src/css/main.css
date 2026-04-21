@@ -1,0 +1,16 @@
+/**
+ * 3DS产品价格查询系统 - 主样式文件
+ * 
+ * 该文件导入所有CSS模块
+ * 导入顺序：基础样式 → 组件样式 → 响应式样式
+ */
+
+/* 基础样式 */
+@import url('./base.css');
+
+/* 组件样式 */
+@import url('./components/search.css');
+@import url('./components/table.css');
+
+/* 响应式样式 */
+@import url('./responsive.css');

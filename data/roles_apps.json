@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "generatedAt": "2026-04-21",
+    "totalRoles": 9,
+    "totalApps": 19,
+    "sourceDirectory": "c:\\Temp\\WEB_TEST\\data\\CATIA_ROLES"
+  },
+  "roles": [
+    {
+      "roleName": "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "apps": [
+        "BCELC",
+        "COLLADA",
+        "FBX",
+        "IFC",
+        "IGES",
+        "OBJ",
+        "STEP",
+        "PDM",
+        "HVAC",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "apps": [
+        "BCFLC",
+        "COLLADA",
+        "FBX",
+        "IFC",
+        "IGES",
+        "OBJ",
+        "STEP",
+        "PDM",
+        "HVAC",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "apps": [
+        "MEP",
+        "BCMEC",
+        "COLLADA",
+        "FBX",
+        "IFC",
+        "IGES",
+        "OBJ",
+        "STEP",
+        "PDM",
+        "HVAC",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Building and Civil Model Coordinator Role (BCMCC)",
+      "apps": [
+        "BCMCC",
+        "COLLADA",
+        "FBX",
+        "IFC",
+        "IGES",
+        "OBJ",
+        "STEP",
+        "PDM",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Building and Civil Presenter Role (BCPRC)",
+      "apps": [
+        "BCPRC",
+        "COLLADA",
+        "FBX",
+        "IFC",
+        "IGES",
+        "OBJ",
+        "STEP",
+        "PDM",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Building Design Engineer Role (BCMDC)",
+      "apps": [
+        "BCMDC",
+        "COLLADA",
+        "FBX",
+        "IFC",
+        "IGES",
+        "OBJ",
+        "STEP",
+        "PDM",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Building Designer Role (BUDEC)",
+      "apps": [
+        "BUDEC",
+        "COLLADA",
+        "FBX",
+        "IFC",
+        "IGES",
+        "OBJ",
+        "STEP",
+        "PDM",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Construction Designer Role (VDCEC)",
+      "apps": [
+        "VDCEC",
+        "IFC",
+        "IGES",
+        "PDM",
+        "CAD"
+      ]
+    },
+    {
+      "roleName": "Visual Script Designer Role (GGR)",
+      "apps": [
+        "GGR",
+        "IGES",
+        "STEP",
+        "PDM",
+        "CAD"
+      ]
+    }
+  ],
+  "apps": {
+    "BCELC": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)"
+    ],
+    "COLLADA": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)"
+    ],
+    "FBX": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)"
+    ],
+    "IFC": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)",
+      "Construction Designer Role (VDCEC)"
+    ],
+    "IGES": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)",
+      "Construction Designer Role (VDCEC)",
+      "Visual Script Designer Role (GGR)"
+    ],
+    "OBJ": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)"
+    ],
+    "STEP": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)",
+      "Visual Script Designer Role (GGR)"
+    ],
+    "PDM": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)",
+      "Construction Designer Role (VDCEC)",
+      "Visual Script Designer Role (GGR)"
+    ],
+    "HVAC": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)"
+    ],
+    "CAD": [
+      "Building and Civil 3D Electrical Engineer Role (BCELC)",
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)",
+      "Building and Civil 3D MEP Designer Role (BCMEC)",
+      "Building and Civil Model Coordinator Role (BCMCC)",
+      "Building and Civil Presenter Role (BCPRC)",
+      "Building Design Engineer Role (BCMDC)",
+      "Building Designer Role (BUDEC)",
+      "Construction Designer Role (VDCEC)",
+      "Visual Script Designer Role (GGR)"
+    ],
+    "BCFLC": [
+      "Building and Civil 3D Fluid Engineer Role (BCFLC)"
+    ],
+    "MEP": [
+      "Building and Civil 3D MEP Designer Role (BCMEC)"
+    ],
+    "BCMEC": [
+      "Building and Civil 3D MEP Designer Role (BCMEC)"
+    ],
+    "BCMCC": [
+      "Building and Civil Model Coordinator Role (BCMCC)"
+    ],
+    "BCPRC": [
+      "Building and Civil Presenter Role (BCPRC)"
+    ],
+    "BCMDC": [
+      "Building Design Engineer Role (BCMDC)"
+    ],
+    "BUDEC": [
+      "Building Designer Role (BUDEC)"
+    ],
+    "VDCEC": [
+      "Construction Designer Role (VDCEC)"
+    ],
+    "GGR": [
+      "Visual Script Designer Role (GGR)"
+    ]
+  }
+}

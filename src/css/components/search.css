@@ -1,0 +1,126 @@
+/**
+ * 组件样式 - 单选按钮和搜索框
+ */
+
+/* ============================================
+   单选按钮组
+   ============================================ */
+
+.radio-group {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.radio-item {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.radio-item input[type="radio"] {
+    margin-right: 8px;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.radio-item label {
+    cursor: pointer;
+    font-size: 1.1em;
+    color: #333;
+}
+
+.radio-item input[type="radio"]:disabled + label {
+    color: #999;
+    cursor: not-allowed;
+}
+
+/* ============================================
+   搜索框
+   ============================================ */
+
+.search-box {
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    border: 2px solid #e9ecef;
+}
+
+.search-box.active {
+    display: block;
+}
+
+.search-input-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.search-input {
+    flex: 1;
+    padding: 12px 15px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 1em;
+    transition: border-color 0.3s;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #667eea;
+}
+
+.search-btn {
+    padding: 12px 30px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.search-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+}
+
+.search-btn:active {
+    transform: translateY(0);
+}
+
+/* ============================================
+   模式切换按钮（角色APP查询）
+   ============================================ */
+
+.mode-switch {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.mode-switch button {
+    padding: 8px 16px;
+    border: 2px solid #667eea;
+    background: white;
+    color: #667eea;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.95em;
+    transition: all 0.3s;
+}
+
+.mode-switch button:hover {
+    background: #f0f2ff;
+}
+
+.mode-switch button.active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-color: #667eea;
+}

@@ -25,14 +25,20 @@ except ImportError:
 
 
 def extract_text_from_pdf(pdf_path):
-    """从PDF文件中提取文本内容"""
+    """从PDF文件中提取所有页面的文本内容"""
     try:
         text_content = ""
         with pdfplumber.open(pdf_path) as pdf:
-            for page in pdf.pages:
+            total_pages = len(pdf.pages)
+            print(f"  PDF总页数: {total_pages}")
+            
+            for page_num, page in enumerate(pdf.pages, 1):
                 text = page.extract_text()
                 if text:
                     text_content += text + "\n"
+                    print(f"  第{page_num}页提取成功")
+        
+        print(f"  总文本长度: {len(text_content)} 字符")
         return text_content
     except Exception as e:
         print(f"警告: 无法读取PDF文件 {pdf_path}: {e}")
@@ -48,52 +54,129 @@ def extract_role_name_from_filename(filename):
 
 def extract_apps_from_text(text):
     """
-    从PDF文本中提取APP列表
-    这里需要根据实际PDF内容调整解析逻辑
+    从 PDF文本中提取APP列表
+    APP名称通常每行一个,需要识别有效的APP名称行
     """
     apps = []
     
-    # 尝试多种模式匹配APP名称
-    # 模式1: 查找可能的APP代码(如大写字母组合)
-    app_patterns = [
-        r'\b[A-Z]{2,10}\b',  # 2-10个大写字母
-        r'\b[A-Z][a-zA-Z0-9]{2,20}\b',  # 首字母大写的单词
+    # 定义需要跳过的行模式
+    skip_patterns = [
+        r'^https?://',  # URL
+        r'^\d+/\d+',   # 页码如 1/3
+        r'^Building and Civil',  # 角色标题
+        r'^Role \(',  # 角色标识
+        r'^\(B[A-Z]{2,4}C\)$',  # 角色代码如 (BCELC)
+        r'Engineer \(BCMDC\)$',  # Building Design Engineer (BCMDC)
+        r'Designer \(BUDEC\)$',  # Building Designer (BUDEC)
+        r'^$',  # 空行
     ]
     
-    # 常见的CATIA/3DEXPERIENCE APP关键词
-    catia_keywords = [
-        'CATIA', 'DELMIA', 'SIMULIA', 'ENOVIA', 'BIOVIA',
-        '3DEXCITE', 'GEOVIA', 'NETVIBES', 'CENTRIC PLM'
+    # 定义APP名称的特征模式
+    app_indicators = [
+        r'^\d+D ',  # 以数字+D开头,如 "2D Layout", "3D Annotation"
+        r'^Converter for ',  # 转换器
+        r'^Design ',  # 设计相关
+        r'^Assembly ',  # 装配
+        r'^Collaborative ',  # 协作
+        r'^Data ',  # 数据
+        r'^Bookmark ',  # 书签
+        r'^Component ',  # 组件
+        r'^Building ',  # 建筑
+        r'^Drafting',  # 制图
+        r'^Engineering ',  # 工程
+        r'^Exchange ',  # 交换
+        r'^Imagine ',  # 想象
+        r'^Interference ',  # 干涉
+        r'^Know-how ',  # 知识
+        r'^Live ',  # 实时
+        r'^Manufacturing ',  # 制造
+        r'^Material ',  # 材料
+        r'^Mechanical ',  # 机械
+        r'^Multi[- ]',  # 多学科
+        r'^Natural ',  # 自然
+        r'^PartSupply',  # 零件供应
+        r'^Product ',  # 产品
+        r'^Quality ',  # 质量
+        r'^Bent ',  # 弯曲
+        r'^Piping',  # 管道
+        r'^Electrical',  # 电气
+        r'^HVAC',  # 暖通
+        r'^Structural',  # 结构
+        r'^Reinforcement',  # 钢筋
+        r'^Formwork',  # 模板
+        r'^Costing',  # 成本
+        r'^Sustainability',  # 可持续性
+        r'^Relations',  # 关系
+        r'^Report ',  # 报告
+        r'^Simulation',  # 仿真
+        r'^Sketch ',  # 草图
+        r'^Smart ',  # 智能
+        r'^System ',  # 系统
+        r'^Terrain',  # 地形
+        r'^Weight',  # 重量
+        r'^Analysis',  # 分析
+        r'^Definition',  # 定义
+        r'^Integration',  # 集成
+        r'^Management',  # 管理
+        r'^Essentials',  # 基础
+        r'^Resources',  # 资源
+        r'^Templates',  # 模板
+        r'^Capture',  # 捕获
+        r'^Finder',  # 查找器
+        r'^Reuse',  # 重用
+        r'^Control',  # 控制
+        r'^Specification',  # 规格
+        r'^Adapter',  # 适配器
+        r'^Review',  # 审查
+        r'^Rendering',  # 渲染
+        r'^Check',  # 检查
+        r'^Shape',  # 形状
+        r'^Context',  # 上下文
+        r'^Sheet',  # 钣金
+        r'^Generative',  # 生成式
+        r'^Functional',  # 功能性
+        r'^Composites',  # 复合材料
+        r'^Tolerance',  # 公差
+        r'^Kinematics',  # 运动学
+        r'^Optimization',  # 优化
+        r'^Validation',  # 验证
+        r'^Visualization',  # 可视化
+        r'^Collaboration',  # 协作
+        r'^Innovation',  # 创新
     ]
     
     lines = text.split('\n')
+    in_app_list = False
+    
     for line in lines:
         line = line.strip()
         
-        # 跳过空行和太短的行
-        if len(line) < 3:
+        # 跳过空行
+        if not line:
             continue
-            
-        # 查找包含CATIA产品线的行
-        for keyword in catia_keywords:
-            if keyword in line.upper():
-                # 提取可能的APP名称
-                # 这里需要根据实际PDF结构调整
-                potential_apps = re.findall(r'\b[A-Z][A-Z0-9\-]{2,30}\b', line)
-                for app in potential_apps:
-                    if app not in apps and len(app) > 2:
-                        apps.append(app)
+        
+        # 检查是否应该跳过此行
+        should_skip = False
+        for pattern in skip_patterns:
+            if re.search(pattern, line, re.IGNORECASE):
+                should_skip = True
                 break
-    
-    # 如果没有找到足够的APP,尝试更宽松的模式
-    if len(apps) < 3:
-        # 查找所有可能的大写缩写
-        all_caps = re.findall(r'\b[A-Z]{3,15}\b', text)
-        for cap in all_caps:
-            if cap not in apps and len(cap) >= 3:
-                # 过滤掉常见的非APP词汇
-                if cap not in ['THE', 'AND', 'FOR', 'WITH', 'FROM', 'THIS', 'THAT']:
-                    apps.append(cap)
+        
+        if should_skip:
+            continue
+        
+        # 检查是否是APP名称
+        is_app = False
+        for pattern in app_indicators:
+            if re.match(pattern, line, re.IGNORECASE):
+                is_app = True
+                break
+        
+        # 如果匹配APP模式,添加到列表
+        if is_app and len(line) > 3:
+            # 避免重复
+            if line not in apps:
+                apps.append(line)
     
     return apps
 

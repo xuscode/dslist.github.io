@@ -4249,3 +4249,1740 @@ System Finder
 XR Manager
 
 
+
+Mold & Compensation Engineer (MOD)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing Preparation
+3D Templates Capture
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Core & Cavity Separation
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Digitized Shape Preparation
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Functional Part Design
+Generative Shape Design Essentials
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Mold Tooling Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+Part Feature Recognition
+PartSupply integration in CAD context
+Plastic Part Filling
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Virtual to Real Shape Morphing
+Weight Analysis
+
+
+
+Mold & Tooling Designer (MTG)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing Preparation
+3D Templates Capture
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Core & Cavity Separation
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Functional Part Design
+Generative Shape Design Essentials
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Mold Tooling Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+Part Feature Recognition
+PartSupply integration in CAD context
+Plastic Part Filling
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Weight Analysis
+
+
+
+Motion Designer (MKM)
+2D Layout for 3D Design
+3D Templates Capture
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Engineering Adapter for X-PDM
+Exchange Management
+Generative Shape Design Essentials
+Human Design
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Motion Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Simulation Finder
+Sketch Tracer
+Static Study
+System Finder
+Weight Analysis
+
+
+
+Multidiscipline Automated Drafter (FAP)
+3D Templates Capture
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Design
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Multi-Discipline Drafting
+Multi-Discipline Generation
+Multi-discipline Templates
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Simulation Finder
+System Finder
+
+
+Multidiscipline Schematic Designer (SHE)
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Electrical Systems Design
+Engineering Adapter for X-PDM
+Engineering Specification
+Exchange Management
+Functional & Logical Design
+HVAC Systems Design
+Manufacturing Finder
+Multi-discipline Templates
+PartSupply integration in CAD context
+Piping & Tubing Systems Design
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Simulation Finder
+Space Usage
+Symbol Design
+System Finder
+
+
+
+Naval Architect (NAARM)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing
+3D Printing Preparation
+3D Templates Capture
+Ambience Studio
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Creative Design Experience
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Experience Models Preparation
+Feature Specialization
+Functional Part Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Hull Form Modeling
+Human Design
+Imagine & Shape
+Interference Check for Desktop
+Interference Finder
+Live Rendering
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Natural Sketch
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Space Allocation
+Space Referential
+Space Usage
+System Finder
+Weight Analysis
+Weld Design
+
+
+
+Outfitting 3D Systems Designer (OU3SM)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Derived Format Converter
+Design IP Classification
+Design Review for Desktop
+Design with CATIA V5
+Drafting
+Drafting Template Design
+Drafting Template Essentials
+Electrical 3D Design
+Electrical 3D Part Design
+Electrical Raceway
+Electrical Raceway Part
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Fastening
+Feature Specialization
+Functional Part Design
+Generative Electrical 3D Design
+Generative Fluid 3D Design
+Generative Shape Design Essentials
+HVAC 3D Design
+HVAC 3D Part Design
+Hanger Design
+Import XPDMXML without Geometrical Conversion
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-Discipline Drafting
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design Essentials
+PartSupply integration in CAD context
+Piping & Tubing 3D Design
+Piping & Tubing 3D Part Design
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Report Generation Widget
+SOLIDWORKS
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Space Referential
+Space Usage
+Steel Connection Design
+Steel Outfitting Design
+Structure Design
+System Finder
+Systems Synthesis
+Weight Analysis
+
+
+Packaging Designer (PADEG)
+2D Layout for 3D Design
+3D Printing Preparation
+3D Templates Capture
+Ambience Studio
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for AutoCAD
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Creative Design Experience
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+FreeStyle Shape Design
+Generative Shape Design
+Generative Shape Develop
+Generative Shape Morphing
+Human Design
+Imagine & Shape
+Interference Check for Desktop
+Interference Finder
+Live Rendering
+Manufacturing Finder
+Material Definition
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Natural Sketch
+Part Design
+PartSupply integration in CAD context
+Product Finder
+Product Perception Experience
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Shape Healing
+Simulation Finder
+Sketch Tracer
+Structural Package
+System Finder
+Virtual Reality Reviewer
+Weight Analysis
+
+
+
+Piping & HVAC 3D System Engineer (PIH)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Derived Format Converter
+Design IP Classification
+Design Review for Desktop
+Design with CATIA V5
+Drafting
+Drafting Template Design
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Fastening
+Functional Part Design
+Generative Fluid 3D Design
+Generative Shape Design Essentials
+HVAC 3D Design
+HVAC 3D Part Design
+Hanger Design
+Import XPDMXML without Geometrical Conversion
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-Discipline Drafting
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design Essentials
+PartSupply integration in CAD context
+Piping & Tubing 3D Design
+Piping & Tubing 3D Part Design
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Report Generation Widget
+SOLIDWORKS
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Space Referential
+Space Usage
+System Finder
+Systems Synthesis
+Weight Analysis
+
+
+
+Plant Layout Engineer (PLLAE)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Derived Format Converter
+Design IP Classification
+Design Review for Desktop
+Design with CATIA V5
+Drafting
+Drafting Template Design
+Drafting Template Essentials
+Electrical 3D Design
+Electrical 3D Part Design
+Electrical Raceway
+Electrical Raceway Part
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Feature Specialization
+Functional Part Design
+Generative Electrical 3D Design
+Generative Fluid 3D Design
+Generative Shape Design Essentials
+HVAC 3D Design
+HVAC 3D Part Design
+Hanger Design
+Import XPDMXML without Geometrical Conversion
+Insulation Design
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-Discipline Drafting
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design Essentials
+PartSupply integration in CAD context
+Piping & Tubing 3D Design
+Piping & Tubing 3D Part Design
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Report Generation Widget
+SOLIDWORKS
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Space Allocation
+Space Referential
+Space Usage
+Steel Connection Design
+Steel Outfitting Design
+Structure Design
+Structure Functional Design
+System Finder
+Systems Synthesis
+Weight Analysis
+
+
+
+Plant Mechanical Designer (PLMEE)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Functional Part Design
+Generative Shape Design Essentials
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Weight Analysis
+Weld Design
+
+
+
+Powertrain & Chassis Engineer (POCET)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Printing Preparation
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Digitized Shape Preparation
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Fastening
+FreeStyle Shape Analysis
+Functional Part Design
+Generative Shape Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Generative Shape Morphing
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Mechanical Systems Experience
+Motion Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Virtual to Real Shape Morphing
+Weight Analysis
+Weld Design
+
+
+
+Process modeling and Engineering Library (ASZ)
+Process modeling and Engineering Library
+
+
+Product Creative Designer (PRCRL)
+2D Layout for 3D Design
+3D Printing
+3D Templates Capture
+Ambience Studio
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Creative Design Experience
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+FreeStyle Shape Analysis
+Generative Shape Design Essentials
+Human Design
+Imagine & Shape
+Live Rendering
+Manufacturing Finder
+Material Definition
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Natural Sketch
+PartSupply integration in CAD context
+Product Finder
+Product Perception Experience
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Simulation Finder
+Sketch Tracer
+System Finder
+Virtual Reality Reviewer
+Visual Experience Content Collection
+Weight Analysis
+
+
+
+
+Product Design Presenter (PDP)
+3D Printing
+3D Rendering Preparation
+Ambience Studio
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Experience Models Preparation
+Human Design
+Live Rendering
+Manufacturing Finder
+Material Definition
+PartSupply integration in CAD context
+Product Finder
+Product Perception Experience
+Product Structure Design
+Relations for Desktop
+Rendering Scene Design
+Simulation Finder
+System Finder
+
+
+
+Product Designer (PRDEL)
+2D Layout for 3D Design
+3D Printing Preparation
+3D Templates Capture
+Ambience Studio
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Creative Design Experience
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+FreeStyle Shape Design
+Generative Shape Design
+Generative Shape Develop
+Generative Shape Morphing
+Human Design
+Imagine & Shape
+Live Rendering
+Manufacturing Finder
+Material Definition
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Natural Sketch
+Part Design
+PartSupply integration in CAD context
+Product Finder
+Product Perception Experience
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Shape Healing
+Simulation Finder
+Sketch Tracer
+System Finder
+Virtual Reality Reviewer
+Visual Experience Content Collection
+Weight Analysis
+
+
+
+
+Product Enclosure Engineer for High-Tech (PREEH)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Printing Preparation
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Circuit Board Design
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Flexible Circuit Board Design
+FreeStyle Shape Analysis
+Functional Plastic Parts
+Generative Shape Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+Part Feature Recognition
+PartSupply integration in CAD context
+Plastic Part Filling
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rigid Flex Circuit Board
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Weight Analysis
+Weld Design
+
+
+
+Product Mechanical Designer for Home & Lifestyle (PRMDL)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing
+3D Printing Preparation
+3D Templates Capture
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Circuit Board Design
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Flexible Circuit Board Design
+FreeStyle Shape Analysis
+Functional Plastic Parts
+Generative Shape Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Human Design
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Mechanical Systems Experience
+Motion Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+Part Feature Recognition
+PartSupply integration in CAD context
+Plastic Part Filling
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Static Study
+System Finder
+Weight Analysis
+Weld Design
+
+
+
+Quality Rules Content User (QRU)
+Collaborative IP Management
+Converter for SolidWorks
+Manufacturing Finder
+Product Finder
+Quality Rules Collection
+Quality Rules Reuse
+Relations for Desktop
+Simulation Finder
+System Finder
+
+
+
+Quality Rules Manager (QRA)
+Quality Rules Configuration
+Quality Rules Metrics
+
+
+
+Report Producer (RGR)
+Report Generation Widget
+
+
+Report Template Administrator (RGD)
+Report Generation Widget
+Report Template Design Widget
+
+
+
+Reverse Engineer (RPE)
+2D Layout Insight
+3D Printing Preparation
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Digitized Shape Preparation
+Digitized Shape to Surface
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Experience Models Preparation
+FreeStyle Shape Analysis
+Generative Shape Design Essentials
+Imagine & Shape
+Manufacturing Finder
+Natural Shape
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Relations for Desktop
+Shape Healing
+Simulation Finder
+Sketch Tracer
+System Finder
+Virtual to Real Shape Morphing
+Weight Analysis
+
+
+
+SheetMetal Designer (SMW)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing
+3D Templates Capture
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Functional Part Design
+Generative Shape Design Essentials
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Weight Analysis
+Weld Design
+
+
+
+Space Allocation Architect (SAO)
+2D Layout for 3D Design
+3D Templates Capture
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Feature Specialization
+Generative Shape Design Essentials
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Multi-discipline Templates
+Natural Shape
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Simulation Finder
+Sketch Tracer
+Space Allocation
+Space Referential
+Space Usage
+System Finder
+
+
+
+
+Stamping Die Engineer (STDEI)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing Preparation
+3D Templates Capture
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Die Face Design
+Digitized Shape Preparation
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Functional Part Design
+Generative Shape Design Essentials
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Virtual to Real Shape Morphing
+Weight Analysis
+
+
+
+
+Steel & Equipment Layout Designer (STELM)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Derived Format Converter
+Design IP Classification
+Design Review for Desktop
+Design with CATIA V5
+Drafting
+Drafting Template Design
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Fastening
+Feature Specialization
+Functional Part Design
+Generative Shape Design Essentials
+Import XPDMXML without Geometrical Conversion
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-Discipline Drafting
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Report Generation Widget
+SOLIDWORKS
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Space Referential
+Space Usage
+Steel Connection Design
+Steel Outfitting Design
+Structure Design
+System Finder
+Systems Synthesis
+Weight Analysis
+
+
+
+Steel Structures Designer (SSX)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing
+3D Templates Capture
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Fastening
+Feature Specialization
+Functional Part Design
+Generative Shape Design Essentials
+Insulation Design
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Space Referential
+Space Usage
+Steel Connection Design
+Steel Outfitting Design
+Structure Design
+Structure Functional Design
+System Finder
+Weight Analysis
+
+
+
+
+Stiffened Structure Engineer (SSC)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing
+3D Templates Capture
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Composites Model Creation
+Converter for IGES
+Converter for Nastran
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Exchange Management
+Generative Shape Design
+Generative Shape Design Plus
+Interference Check for Desktop
+Interference Finder
+Linear Structural Scenario Creation
+Manufacturing Finder
+Material Definition
+Multi-discipline Templates
+Parametric Design Study
+Part Design Essentials
+PartSupply integration in CAD context
+Physics Results Explorer
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Simulation Finder
+Sketch Tracer
+Station Administration
+Station Launcher
+Stiffened Structure Concept
+Structural Model Creation
+System Finder
+Weight Analysis
+
+
+
+
+Structural Electronics Engineer for High-Tech (STEEH)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Printing Preparation
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Circuit Board Design
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Digitized Shape Preparation
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Flexible Circuit Board Design
+FreeStyle Shape Analysis
+Functional Plastic Parts
+Generative Shape Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+Part Feature Recognition
+PartSupply integration in CAD context
+Plastic Part Filling
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rigid Flex Circuit Board
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Virtual to Real Shape Morphing
+Weight Analysis
+Weld Design
+
+
+
+
+Structural Generative Designer (SGD)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing Preparation
+3D Templates Capture
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+Function Driven Refinement
+Functional Part Design
+Generative Shape Design Essentials
+Imagine & Shape
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Part Design
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Station Administration
+Station Launcher
+Structural Generative Design
+Structural Generative Design Extension
+System Finder
+Weight Analysis
+Weld Design
+
+
+
+
+Structural Packaging Designer (PKD)
+2D Layout for 3D Design
+3D Printing
+3D Templates Capture
+Ambience Studio
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for AutoCAD
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+FreeStyle Shape Analysis
+Generative Shape Design Essentials
+Human Design
+Imagine & Shape
+Interference Check for Desktop
+Interference Finder
+Live Rendering
+Manufacturing Finder
+Material Definition
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Natural Sketch
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Simulation Finder
+Sketch Tracer
+Structural Package
+System Finder
+Weight Analysis
+
+
+
+
+
+Structure Designer for Marine and Offshore (SHSTM)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Annotation Insight for Desktop
+3D Printing
+3D Printing Preparation
+3D Templates Capture
+3D Tolerancing & Annotation
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for STEP Multidiscipline
+Converter for SolidWorks
+Data Setup
+Derived Format Converter
+Design IP Classification
+Design Review for Desktop
+Design with CATIA V5
+Digitized Shape Preparation
+Digitized Shape to Surface
+Drafting
+Drafting Template Design
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Engineering Specification
+Exchange Management
+Experience Models Preparation
+Fastening
+Feature Specialization
+FreeStyle Shape Design
+Functional Part Design
+Generative Shape Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Generative Shape Morphing
+Imagine & Shape
+Import XPDMXML without Geometrical Conversion
+Insulation Design
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Material Definition
+Mechanical Surface Refinement
+Mechanical Systems Design
+Multi-Discipline Drafting
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Natural Sketch
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Report Generation Widget
+SOLIDWORKS
+Shape Healing
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+Space Referential
+Space Usage
+Structure Design
+Structure Functional Design
+System Finder
+Systems Synthesis
+Weight Analysis
+
+
+
+
+
+Style & Class-A Modeler (ICD)
+2D Layout Insight
+3D Printing Preparation
+3D Templates Capture
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Creative Design Experience
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+FreeStyle Shape Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Human Design
+ICEM Design Experience
+ICEM Shape Design
+Imagine & Shape
+Live Rendering
+Manufacturing Finder
+Material Definition
+Multi-discipline Templates
+Natural Shape
+Natural Sketch
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Shape Healing
+Simulation Finder
+Sketch Tracer
+System Finder
+
+
+
+Surface Modeler for Aerospace & Defense (SUMFA)
+2D Layout for 3D Design
+3D Annotation Experience
+3D Printing
+3D Printing Preparation
+3D Templates Capture
+Ambience Studio
+Assembly Design
+Bent Part Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Component Family Definition
+Converter for ICEM Surf
+Converter for IGES
+Converter for STEP
+Converter for SolidWorks
+Creative Design Experience
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Digitized Shape Preparation
+Digitized Shape to Surface
+Drafting
+Drafting Template Essentials
+Engineering Adapter for X-PDM
+Engineering IP Control
+Exchange Management
+FreeStyle Shape Design
+Functional Part Design
+Generative Shape Design
+Generative Shape Design Essentials
+Generative Shape Develop
+Generative Shape Morphing
+Human Animation Studio
+Human Design
+ICEM Design Experience
+ICEM Shape Design
+ICEM Shape Morphing
+Imagine & Shape
+Interference Check for Desktop
+Interference Finder
+Live Rendering
+Manufacturing Finder
+Material Definition
+Mechanical Systems Design
+Multi-discipline Templates
+Natural Assembly
+Natural Shape
+Natural Sketch
+Part Design
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Quality Rules Reuse
+Relations for Desktop
+Rendering Scene Design
+Shape Healing
+Sheet Metal Design
+Simulation Finder
+Sketch Tracer
+Smart Mechanical Components
+System Finder
+Virtual Reality Reviewer
+Virtual to Real Shape Morphing
+Weight Analysis
+Weld Design
+
+
+
+
+
+Sustainable Supply Systems Library (USZ)
+CATIA Sustainable Supply Systems Library
+
+
+
+Systems 3D Architect (S3A)
+Assembly Design
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Engineering Adapter for X-PDM
+Engineering Specification
+Exchange Management
+Generative Shape Design Essentials
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+Part Design Essentials
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Relations for Desktop
+Simulation Finder
+Sketch Tracer
+Space Usage
+System Finder
+Systems Space Reservation
+
+
+
+Systems 3D Routing Engineer (S3R)
+Bookmark Editor for Desktop
+Collaborative IP Management
+Collaborative Lifecycle for Desktop
+Converter for SolidWorks
+Data Setup
+Design IP Classification
+Design Review for Desktop
+Engineering Adapter for X-PDM
+Engineering Specification
+Exchange Management
+Interference Check for Desktop
+Interference Finder
+Manufacturing Finder
+PartSupply integration in CAD context
+Product Finder
+Product Structure Design
+Relations for Desktop
+Simulation Finder
+Space Usage
+System Finder
+Systems 3D Allocation
+
+
+
+Systems Aviation Library (AVZ)
+Systems Aviation Library
+
+

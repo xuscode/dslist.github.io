@@ -1,8 +1,8 @@
 {
   "metadata": {
     "generatedAt": "2026-04-21",
-    "totalRoles": 135,
-    "totalApps": 259,
+    "totalRoles": 191,
+    "totalApps": 310,
     "sourceFile": "C:\\Temp\\WEB_TEST\\data\\CATIA_ROLES\\roles.txt",
     "method": "TXT parsing (more accurate than PDF)"
   },
@@ -6057,6 +6057,823 @@
       "apps": [
         "Systems Aviation Library"
       ]
+    },
+    {
+      "roleName": "Systems Battery Library (BTZ)",
+      "apps": [
+        "Systems Battery Library"
+      ]
+    },
+    {
+      "roleName": "Systems Behavior Optimization (DOY)",
+      "apps": [
+        "Systems Behavior Optimization"
+      ]
+    },
+    {
+      "roleName": "Systems Brushless DC Drives Library (DCZ)",
+      "apps": [
+        "Systems Brushless DC Drives Library"
+      ]
+    },
+    {
+      "roleName": "Systems C Code Export (XCS)",
+      "apps": [
+        "Systems C Code Export"
+      ]
+    },
+    {
+      "roleName": "Systems ClaRa Plus Library (CRZ)",
+      "apps": [
+        "Systems ClaRa Plus Library"
+      ]
+    },
+    {
+      "roleName": "Systems Cooling Library (CLZ)",
+      "apps": [
+        "Systems Cooling Library"
+      ]
+    },
+    {
+      "roleName": "Systems Electric Power Library (EWZ)",
+      "apps": [
+        "Systems Electric Power Library"
+      ]
+    },
+    {
+      "roleName": "Systems Electrified Power Train Library (ETZ)",
+      "apps": [
+        "Systems Electrified Power Train Library"
+      ]
+    },
+    {
+      "roleName": "Systems Engineer for Education (UYS)",
+      "apps": [
+        "2D Layout for 3D Design",
+        "3D Annotation Experience",
+        "3D Annotation Insight for Desktop",
+        "3D Printing",
+        "3D Templates Capture",
+        "3D Tolerancing & Annotation",
+        "Assembly Design",
+        "Behavior Experience",
+        "Behavior Modeling",
+        "Bent Part Design",
+        "Bookmark Editor for Desktop",
+        "CATIA Systems TIL Hydrogen Library",
+        "CATIA Systems TIL Mobile Air Conditioning Library",
+        "CATIA Systems TIL Thermal Storages Library",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Component Family Definition",
+        "Converter for IGES",
+        "Converter for STEP",
+        "Converter for STEP Multidiscipline",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Design Review for Desktop",
+        "Drafting",
+        "Drafting Template Essentials",
+        "Electrical Systems Design",
+        "Engineering Adapter for X-PDM",
+        "Engineering IP Control",
+        "Engineering Specification",
+        "Exchange Management",
+        "Functional & Logical Design",
+        "Functional Part Design",
+        "Generative Shape Design Essentials",
+        "HVAC Systems Design",
+        "Human Design",
+        "Interference Check for Desktop",
+        "Interference Finder",
+        "Manufacturing Finder",
+        "Material Definition",
+        "Mechanical Systems Design",
+        "Mechanical Systems Experience",
+        "Motion Design",
+        "Multi-discipline Templates",
+        "Natural Assembly",
+        "Natural Shape",
+        "Part Design",
+        "Part Design Essentials",
+        "PartSupply integration in CAD context",
+        "Piping & Tubing Systems Design",
+        "Process modeling and Engineering Library",
+        "Product Finder",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Sheet Metal Design",
+        "Simulation Finder",
+        "Sketch Tracer",
+        "Smart Mechanical Components",
+        "Space Usage",
+        "Static Study",
+        "Symbol Design",
+        "System Finder",
+        "Systems Aviation Library",
+        "Systems Battery Library",
+        "Systems Behavior Optimization",
+        "Systems Brushless DC Drives Library",
+        "Systems ClaRa Plus Library",
+        "Systems Cooling Library",
+        "Systems Electric Power Library",
+        "Systems Electrified Power Train Library",
+        "Systems Engines Library",
+        "Systems FMU Export",
+        "Systems Flexible Bodies Library",
+        "Systems Flight Dynamics Library",
+        "Systems Fluid Dynamics Library",
+        "Systems Fluid Power Library",
+        "Systems HVAC Library",
+        "Systems Human Comfort Library",
+        "Systems Hydrogen Library",
+        "Systems Industrial Process Simulation Library",
+        "Systems Pneumatics Library",
+        "Systems Simulink Export",
+        "Systems Thermodynamics Connector",
+        "Systems VeSyMA Library",
+        "Systems VeSyMA Powertrain Library",
+        "Systems VeSyMA Suspensions Library",
+        "Systems Wind Power Library",
+        "Weight Analysis",
+        "Weld Design"
+      ]
+    },
+    {
+      "roleName": "Systems Experience Tester (PEV)",
+      "apps": [
+        "Systems Exp. Player"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Systems Experience Tester Role (PEV)"
+      ]
+    },
+    {
+      "roleName": "Systems Failure Analyst (SQA)",
+      "apps": [
+        "Failure Modes Effects Analysis",
+        "Preliminary Risk Assessment",
+        "Report Generation Widget"
+      ]
+    },
+    {
+      "roleName": "Systems Flexible Bodies Library (FBZ)",
+      "apps": [
+        "Systems Flexible Bodies Library"
+      ]
+    },
+    {
+      "roleName": "Systems Flight Dynamics Library (FDZ)",
+      "apps": [
+        "Systems Flight Dynamics Library"
+      ]
+    },
+    {
+      "roleName": "Systems Fluid Dynamics Library (FLZ)",
+      "apps": [
+        "Systems Fluid Dynamics Library"
+      ]
+    },
+    {
+      "roleName": "Systems Fluid Power Library (FPZ)",
+      "apps": [
+        "Systems Fluid Power Library"
+      ]
+    },
+    {
+      "roleName": "Systems HVAC Library (HVZ)",
+      "apps": [
+        "Systems HVAC Library"
+      ]
+    },
+    {
+      "roleName": "Systems Human Comfort Library (HCZ)",
+      "apps": [
+        "Systems Human Comfort Library"
+      ]
+    },
+    {
+      "roleName": "Systems Hydrogen Library (HYZ)",
+      "apps": [
+        "Systems Hydrogen Library"
+      ]
+    },
+    {
+      "roleName": "Systems Industrial Process Simulation Library (PRZ)",
+      "apps": [
+        "Systems Industrial Process Simulation Library"
+      ]
+    },
+    {
+      "roleName": "Systems Multi-Views Architect (SVK)",
+      "apps": [
+        "Systems Architecture Design"
+      ]
+    },
+    {
+      "roleName": "Systems Pneumatic Library (PMZ)",
+      "apps": [
+        "Systems Pneumatics Library"
+      ]
+    },
+    {
+      "roleName": "Systems Safety Designer (SFY)",
+      "apps": [
+        "Fault Tree Analysis",
+        "Report Generation Widget"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Systems Safety Designer Role (SFY)"
+      ]
+    },
+    {
+      "roleName": "Systems Schematic Engineer (TIC)",
+      "apps": [
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Derived Format Converter",
+        "Design IP Classification",
+        "Design Review for Desktop",
+        "Design with CATIA V5",
+        "Drafting",
+        "Drafting Template Essentials",
+        "Electrical Systems Design",
+        "Engineering Adapter for X-PDM",
+        "Engineering Specification",
+        "Exchange Management",
+        "Functional & Logical Design",
+        "HVAC Systems Design",
+        "Import XPDMXML without Geometrical Conversion",
+        "Manufacturing Finder",
+        "Material Definition",
+        "Multi-discipline Templates",
+        "PartSupply integration in CAD context",
+        "Piping & Tubing Systems Design",
+        "Product Finder",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Report Generation Widget",
+        "SOLIDWORKS",
+        "Simulation Finder",
+        "Space Usage",
+        "Symbol Design",
+        "System Finder",
+        "Systems Synthesis"
+      ]
+    },
+    {
+      "roleName": "Systems Simulation Analyst (SIA)",
+      "apps": [
+        "Systems Simulation Analysis"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Systems Simulation Analyst Role (SIA)"
+      ]
+    },
+    {
+      "roleName": "Systems Simulation Designer (SID)",
+      "apps": [
+        "Systems Simulation Design"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Systems Simulation Designer Role (SID)"
+      ]
+    },
+    {
+      "roleName": "Systems Solution Architect (TUR)",
+      "apps": [
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Engineering Adapter for X-PDM",
+        "Exchange Management",
+        "Functional & Logical Design",
+        "Manufacturing Finder",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Simulation Finder",
+        "Symbol Design",
+        "System Finder"
+      ]
+    },
+    {
+      "roleName": "Systems Structure Designer (ARC)",
+      "apps": [
+        "Systems Structure Design"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Systems Structure Designer Role (ARC)"
+      ]
+    },
+    {
+      "roleName": "Systems TIL Base Library (FNZ)",
+      "apps": [
+        "CATIA Systems TIL Base Library"
+      ]
+    },
+    {
+      "roleName": "Systems TIL Hydrogen Library (HNZ)",
+      "apps": [
+        "CATIA Systems TIL Hydrogen Library"
+      ]
+    },
+    {
+      "roleName": "Systems TIL Mobile Air Conditioning Library (HMZ)",
+      "apps": [
+        "CATIA Systems TIL Mobile Air Conditioning Library"
+      ]
+    },
+    {
+      "roleName": "Systems TIL Thermal Storages Library (TTZ)",
+      "apps": [
+        "CATIA Systems TIL Thermal Storages Library"
+      ]
+    },
+    {
+      "roleName": "Systems Thermal Library (TIZ)",
+      "apps": [
+        "Systems TIL Library"
+      ]
+    },
+    {
+      "roleName": "Systems Traceability Analyst (TRY)",
+      "apps": [
+        "Derived Format Converter",
+        "Design with CATIA V5",
+        "Import XPDMXML without Geometrical Conversion",
+        "Material Definition",
+        "Report Generation Widget",
+        "SOLIDWORKS",
+        "Systems Synthesis",
+        "Systems Traceability"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Systems Traceability Analyst Role (TRY)"
+      ]
+    },
+    {
+      "roleName": "Systems Traceability Engineer (TRG)",
+      "apps": [
+        "Derived Format Converter",
+        "Design with CATIA V5",
+        "Import XPDMXML without Geometrical Conversion",
+        "Material Definition",
+        "SOLIDWORKS",
+        "Systems Synthesis"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Systems Traceability Engineer Role (TRG)"
+      ]
+    },
+    {
+      "roleName": "Systems VeSyMA Engines Library (EIZ)",
+      "apps": [
+        "Systems Engines Library"
+      ]
+    },
+    {
+      "roleName": "Templates & Rules Designer (TER)",
+      "apps": [
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Engineering Adapter for X-PDM",
+        "Engineering Rules Capture",
+        "Engineering Templates",
+        "Exchange Management",
+        "Know-how Apps Creation",
+        "Know-how Apps Resources",
+        "Manufacturing Finder",
+        "Mechanical Intf Temp Capture",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Quality Rules Capture",
+        "Relations for Desktop",
+        "Simulation Finder",
+        "System Finder"
+      ]
+    },
+    {
+      "roleName": "Templates, Optimization & Rules Designer (TEO)",
+      "apps": [
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Design Optimization",
+        "Engineering Adapter for X-PDM",
+        "Engineering Rules Capture",
+        "Engineering Templates",
+        "Exchange Management",
+        "Know-how Apps Creation",
+        "Know-how Apps Resources",
+        "Manufacturing Finder",
+        "Mechanical Intf Temp Capture",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Quality Rules Capture",
+        "Relations for Desktop",
+        "Simulation Finder",
+        "System Finder"
+      ]
+    },
+    {
+      "roleName": "Tire Designer (TIRGI)",
+      "apps": [
+        "2D Layout for 3D Design",
+        "3D Annotation Experience",
+        "3D Printing",
+        "3D Printing Preparation",
+        "3D Templates Capture",
+        "Ambience Studio",
+        "Assembly Design",
+        "Bent Part Design",
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Component Family Definition",
+        "Converter for ICEM Surf",
+        "Converter for IGES",
+        "Converter for STEP",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Design Review for Desktop",
+        "Digitized Shape Preparation",
+        "Drafting",
+        "Drafting Template Essentials",
+        "Engineering Adapter for X-PDM",
+        "Engineering IP Control",
+        "Exchange Management",
+        "Experience Models Preparation",
+        "FreeStyle Shape Analysis",
+        "FreeStyle Shape Design",
+        "Functional Part Design",
+        "Generative Shape Design",
+        "Generative Shape Develop",
+        "Generative Shape Morphing",
+        "Human Design",
+        "Interference Check for Desktop",
+        "Interference Finder",
+        "Live Rendering",
+        "Manufacturing Finder",
+        "Material Definition",
+        "Mechanical Surface Refinement",
+        "Mechanical Systems Design",
+        "Multi-discipline Templates",
+        "Natural Assembly",
+        "Natural Shape",
+        "Part Design",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Rendering Scene Design",
+        "Shape Healing",
+        "Sheet Metal Design",
+        "Simulation Finder",
+        "Sketch Tracer",
+        "Smart Mechanical Components",
+        "System Finder",
+        "Virtual to Real Shape Morphing",
+        "Weight Analysis",
+        "Weld Design"
+      ]
+    },
+    {
+      "roleName": "Transportation Designer (CDT)",
+      "apps": [
+        "2D Layout for 3D Design",
+        "3D Printing Preparation",
+        "3D Templates Capture",
+        "Ambience Studio",
+        "Assembly Design",
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Component Family Definition",
+        "Converter for ICEM Surf",
+        "Converter for IGES",
+        "Converter for STEP",
+        "Converter for SolidWorks",
+        "Creative Design Experience",
+        "Data Setup",
+        "Design IP Classification",
+        "Design Review for Desktop",
+        "Digitized Shape Preparation",
+        "Digitized Shape to Surface",
+        "Drafting",
+        "Drafting Template Essentials",
+        "Engineering Adapter for X-PDM",
+        "Engineering IP Control",
+        "Exchange Management",
+        "FreeStyle Shape Design",
+        "Generative Shape Design",
+        "Generative Shape Develop",
+        "Generative Shape Morphing",
+        "Human Animation Studio",
+        "Human Design",
+        "ICEM Design Experience",
+        "ICEM Shape Design",
+        "ICEM Shape Morphing",
+        "Imagine & Shape",
+        "Live Rendering",
+        "Manufacturing Finder",
+        "Material Definition",
+        "Multi-discipline Templates",
+        "Natural Assembly",
+        "Natural Shape",
+        "Natural Sketch",
+        "Part Design",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Rendering Scene Design",
+        "Shape Healing",
+        "Simulation Finder",
+        "Sketch Tracer",
+        "System Finder",
+        "Virtual Reality Reviewer",
+        "Weight Analysis"
+      ]
+    },
+    {
+      "roleName": "Vehicle Creative Designer (HEMCI)",
+      "apps": [
+        "2D Layout for 3D Design",
+        "3D Printing",
+        "3D Templates Capture",
+        "Ambience Studio",
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Component Family Definition",
+        "Converter for ICEM Surf",
+        "Converter for IGES",
+        "Converter for STEP",
+        "Converter for SolidWorks",
+        "Creative Design Experience",
+        "Data Setup",
+        "Design IP Classification",
+        "Design Review for Desktop",
+        "Drafting",
+        "Drafting Template Essentials",
+        "Engineering Adapter for X-PDM",
+        "Engineering IP Control",
+        "Exchange Management",
+        "FreeStyle Shape Analysis",
+        "Generative Shape Design Essentials",
+        "Human Design",
+        "Imagine & Shape",
+        "Live Rendering",
+        "Manufacturing Finder",
+        "Material Definition",
+        "Multi-discipline Templates",
+        "Natural Assembly",
+        "Natural Shape",
+        "Natural Sketch",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Product Perception Experience",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Rendering Scene Design",
+        "Simulation Finder",
+        "Sketch Tracer",
+        "System Finder",
+        "Visual Experience Content Collection",
+        "Weight Analysis"
+      ]
+    },
+    {
+      "roleName": "Virtual & Real Reconstruction Designer (VRR)",
+      "apps": [
+        "2D Layout Insight",
+        "2D Layout for 3D Design",
+        "3D Printing",
+        "3D Printing Preparation",
+        "3D Templates Capture",
+        "Ambience Studio",
+        "Assembly Design",
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Component Family Definition",
+        "Converter for ICEM Surf",
+        "Converter for IGES",
+        "Converter for STEP",
+        "Converter for SolidWorks",
+        "Creative Design Experience",
+        "Data Setup",
+        "Design IP Classification",
+        "Design Review for Desktop",
+        "Digitized Shape Preparation",
+        "Digitized Shape to Surface",
+        "Drafting",
+        "Drafting Template Essentials",
+        "Engineering Adapter for X-PDM",
+        "Engineering IP Control",
+        "Exchange Management",
+        "Experience Models Preparation",
+        "FreeStyle Shape Analysis",
+        "FreeStyle Shape Design",
+        "Generative Shape Design",
+        "Generative Shape Design Essentials",
+        "Generative Shape Develop",
+        "Generative Shape Morphing",
+        "Human Design",
+        "Imagine & Shape",
+        "Live Rendering",
+        "Manufacturing Finder",
+        "Material Definition",
+        "Multi-discipline Templates",
+        "Natural Assembly",
+        "Natural Shape",
+        "Natural Sketch",
+        "Part Design",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Rendering Scene Design",
+        "Shape Healing",
+        "Simulation Finder",
+        "Sketch Tracer",
+        "System Finder",
+        "Virtual Reality Reviewer",
+        "Virtual to Real Shape Morphing",
+        "Weight Analysis"
+      ]
+    },
+    {
+      "roleName": "Virtual Reality Reviewer (VIZ)",
+      "apps": [
+        "Virtual Reality Reviewer"
+      ]
+    },
+    {
+      "roleName": "Virtual Systems Experience Designer (SEV)",
+      "apps": [
+        "Systems Exp. Validation"
+      ]
+    },
+    {
+      "roleName": "Installation Notes",
+      "apps": [
+        "Installing Virtual Systems Experience Designer Role (SEV)"
+      ]
+    },
+    {
+      "roleName": "Visual Experience Content Collection (VCC)",
+      "apps": [
+        "Visual Experience Content Collection"
+      ]
+    },
+    {
+      "roleName": "Visual Experience Designer (CSX)",
+      "apps": [
+        "3D Printing",
+        "Ambience Studio",
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Converter for IGES",
+        "Converter for STEP",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Design Review for Desktop",
+        "Engineering Adapter for X-PDM",
+        "Engineering IP Control",
+        "Exchange Management",
+        "Experience Models Preparation",
+        "Human Design",
+        "Live Rendering",
+        "Manufacturing Finder",
+        "Material Definition",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Product Structure Design",
+        "Relations for Desktop",
+        "Rendering Scene Design",
+        "Simulation Finder",
+        "System Finder"
+      ]
+    },
+    {
+      "roleName": "Visual Script Designer (GGR)",
+      "apps": [
+        "3D Printing",
+        "3D Templates Capture",
+        "Bookmark Editor for Desktop",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Component Family Definition",
+        "Converter for IGES",
+        "Converter for STEP",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Engineering Adapter for X-PDM",
+        "Engineering IP Control",
+        "Exchange Management",
+        "Manufacturing Finder",
+        "Material Definition",
+        "Multi-discipline Templates",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Product Structure Design",
+        "Quality Rules Reuse",
+        "Relations for Desktop",
+        "Simulation Finder",
+        "System Finder",
+        "Visual Scripting"
+      ]
+    },
+    {
+      "roleName": "Weight and Balance Analyst (KPK)",
+      "apps": [
+        "Bookmark Editor for Desktop",
+        "Business Insight Content",
+        "Business Performance Assessment",
+        "Business Planner",
+        "Business Target Definition",
+        "Business Value Definition",
+        "Collaborative IP Management",
+        "Collaborative Lifecycle for Desktop",
+        "Converter for SolidWorks",
+        "Data Setup",
+        "Design IP Classification",
+        "Engineering Adapter for X-PDM",
+        "Exchange Management",
+        "Manufacturing Finder",
+        "PartSupply integration in CAD context",
+        "Product Finder",
+        "Relations for Desktop",
+        "Simulation Finder",
+        "System Finder",
+        "Weight and Balance"
+      ]
+    },
+    {
+      "roleName": "Weight and Balance Collaboration Designer (KPY)",
+      "apps": [
+        "Business Performance Assessment",
+        "Business Value Definition",
+        "Collaborative IP Management",
+        "Converter for SolidWorks",
+        "Manufacturing Finder",
+        "Product Finder",
+        "Product Structure Design",
+        "Relations for Desktop",
+        "Simulation Finder",
+        "System Finder",
+        "Weight Analysis",
+        "Weight and Balance"
+      ]
     }
   ],
   "apps": {
@@ -6143,7 +6960,12 @@
       "Structural Generative Designer (SGD)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "3D Annotation Insight for Desktop": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6182,7 +7004,8 @@
       "Product Enclosure Engineer for High-Tech (PREEH)",
       "Steel & Equipment Layout Designer (STELM)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Engineer for Education (UYS)"
     ],
     "3D Templates Capture": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6270,7 +7093,13 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Script Designer (GGR)"
     ],
     "3D Tolerancing & Annotation": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6307,7 +7136,8 @@
       "Product Enclosure Engineer for High-Tech (PREEH)",
       "Steel & Equipment Layout Designer (STELM)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Bookmark Editor for Desktop": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6417,7 +7247,19 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)"
     ],
     "Collaborative IP Management": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6533,7 +7375,20 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "Collaborative Lifecycle for Desktop": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6643,7 +7498,19 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)"
     ],
     "Converter for IGES": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6741,7 +7608,14 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)"
     ],
     "Converter for STEP Multidiscipline": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6786,7 +7660,8 @@
       "Steel & Equipment Layout Designer (STELM)",
       "Stiffened Structure Engineer (SSC)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Converter for SolidWorks": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -6902,7 +7777,20 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "Data Setup": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7012,7 +7900,19 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)"
     ],
     "Design IP Classification": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7122,7 +8022,19 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)"
     ],
     "Design Review for Desktop": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7223,7 +8135,14 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)"
     ],
     "Drafting": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7308,7 +8227,13 @@
       "Structural Generative Designer (SGD)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Drafting Template Essentials": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7393,7 +8318,13 @@
       "Structural Generative Designer (SGD)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Engineering Adapter for X-PDM": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7503,7 +8434,19 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)"
     ],
     "Engineering IP Control": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7577,7 +8520,14 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)"
     ],
     "Exchange Management": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7687,7 +8637,19 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)"
     ],
     "Interference Check for Desktop": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7773,7 +8735,9 @@
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Interference Finder": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7859,7 +8823,9 @@
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Manufacturing Finder": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -7975,7 +8941,20 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "Material Definition": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8076,7 +9055,17 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Traceability Analyst (TRY)",
+      "Systems Traceability Engineer (TRG)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)"
     ],
     "Multi-discipline Templates": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8164,7 +9153,14 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Script Designer (GGR)"
     ],
     "PartSupply integration in CAD context": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8274,7 +9270,19 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)"
     ],
     "Product Finder": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8390,7 +9398,20 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "Product Structure Design": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8494,7 +9515,17 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "Quality Rules Reuse": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8587,7 +9618,15 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Script Designer (GGR)"
     ],
     "Relations for Desktop": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8703,7 +9742,20 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "Simulation Finder": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8819,7 +9871,20 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "System Finder": [
       "3D Tolerancing & Annotation Designer (TAD)",
@@ -8935,7 +10000,20 @@
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)",
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "3D Annotation Experience": [
       "Accommodation Designer (ACT)",
@@ -9007,7 +10085,9 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Generative Designer (SGD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "3D Printing": [
       "Accommodation Designer (ACT)",
@@ -9076,7 +10156,13 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)"
     ],
     "Accommodation Design": [
       "Accommodation Designer (ACT)",
@@ -9164,7 +10250,11 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
-      "Systems 3D Architect (S3A)"
+      "Systems 3D Architect (S3A)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Component Family Definition": [
       "Accommodation Designer (ACT)",
@@ -9228,7 +10318,13 @@
       "Structural Generative Designer (SGD)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Script Designer (GGR)"
     ],
     "Converter for STEP": [
       "Accommodation Designer (ACT)",
@@ -9309,7 +10405,14 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)",
+      "Visual Script Designer (GGR)"
     ],
     "Feature Specialization": [
       "Accommodation Designer (ACT)",
@@ -9381,7 +10484,10 @@
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
-      "Systems 3D Architect (S3A)"
+      "Systems 3D Architect (S3A)",
+      "Systems Engineer for Education (UYS)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Insulation Design": [
       "Accommodation Designer (ACT)",
@@ -9462,7 +10568,12 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Part Design Essentials": [
       "Accommodation Designer (ACT)",
@@ -9498,7 +10609,8 @@
       "Stiffened Structure Engineer (SSC)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
-      "Systems 3D Architect (S3A)"
+      "Systems 3D Architect (S3A)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Sketch Tracer": [
       "Accommodation Designer (ACT)",
@@ -9584,7 +10696,12 @@
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
       "Surface Modeler for Aerospace & Defense (SUMFA)",
-      "Systems 3D Architect (S3A)"
+      "Systems 3D Architect (S3A)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Space Referential": [
       "Accommodation Designer (ACT)",
@@ -9631,7 +10748,9 @@
       "Steel Structures Designer (SSX)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)"
     ],
     "Weight Analysis": [
       "Accommodation Designer (ACT)",
@@ -9716,7 +10835,13 @@
       "Structural Generative Designer (SGD)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ],
     "Bent Part Design": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -9766,7 +10891,9 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Generative Designer (SGD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Derived Format Converter": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -9784,7 +10911,10 @@
       "Piping & HVAC 3D System Engineer (PIH)",
       "Plant Layout Engineer (PLLAE)",
       "Steel & Equipment Layout Designer (STELM)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Traceability Analyst (TRY)",
+      "Systems Traceability Engineer (TRG)"
     ],
     "Design with CATIA V5": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -9802,7 +10932,10 @@
       "Piping & HVAC 3D System Engineer (PIH)",
       "Plant Layout Engineer (PLLAE)",
       "Steel & Equipment Layout Designer (STELM)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Traceability Analyst (TRY)",
+      "Systems Traceability Engineer (TRG)"
     ],
     "Drafting Template Design": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -9851,7 +10984,9 @@
       "Steel Structures Designer (SSX)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Systems 3D Architect (S3A)",
-      "Systems 3D Routing Engineer (S3R)"
+      "Systems 3D Routing Engineer (S3R)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)"
     ],
     "Fastening": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -9909,7 +11044,9 @@
       "Steel Structures Designer (SSX)",
       "Structural Generative Designer (SGD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Import XPDMXML without Geometrical Conversion": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -9927,7 +11064,10 @@
       "Piping & HVAC 3D System Engineer (PIH)",
       "Plant Layout Engineer (PLLAE)",
       "Steel & Equipment Layout Designer (STELM)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Traceability Analyst (TRY)",
+      "Systems Traceability Engineer (TRG)"
     ],
     "Mechanical Systems Design": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -9975,7 +11115,9 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Generative Designer (SGD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Multi-Discipline Drafting": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -10062,7 +11204,12 @@
       "Structural Generative Designer (SGD)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Report Generation Widget": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -10084,7 +11231,11 @@
       "Report Producer (RGR)",
       "Report Template Administrator (RGD)",
       "Steel & Equipment Layout Designer (STELM)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Failure Analyst (SQA)",
+      "Systems Safety Designer (SFY)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Traceability Analyst (TRY)"
     ],
     "SOLIDWORKS": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -10102,7 +11253,10 @@
       "Piping & HVAC 3D System Engineer (PIH)",
       "Plant Layout Engineer (PLLAE)",
       "Steel & Equipment Layout Designer (STELM)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Traceability Analyst (TRY)",
+      "Systems Traceability Engineer (TRG)"
     ],
     "Smart Mechanical Components": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -10155,7 +11309,9 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Generative Designer (SGD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Systems Synthesis": [
       "Accommodation Designer for Marine and Offshore (ACDEM)",
@@ -10170,7 +11326,10 @@
       "Piping & HVAC 3D System Engineer (PIH)",
       "Plant Layout Engineer (PLLAE)",
       "Steel & Equipment Layout Designer (STELM)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Traceability Analyst (TRY)",
+      "Systems Traceability Engineer (TRG)"
     ],
     "Composites Design": [
       "Airframe Composites Designer (AICOA)",
@@ -10215,7 +11374,10 @@
       "Product Mechanical Designer for Home & Lifestyle (PRMDL)",
       "Reverse Engineer (RPE)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
-      "Structural Packaging Designer (PKD)"
+      "Structural Packaging Designer (PKD)",
+      "Tire Designer (TIRGI)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Generative Shape Design": [
       "Airframe Composites Designer (AICOA)",
@@ -10255,7 +11417,10 @@
       "Stiffened Structure Engineer (SSC)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Generative Shape Develop": [
       "Airframe Composites Designer (AICOA)",
@@ -10295,7 +11460,10 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Part Design": [
       "Airframe Composites Designer (AICOA)",
@@ -10338,7 +11506,11 @@
       "Product Mechanical Designer for Home & Lifestyle (PRMDL)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Generative Designer (SGD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Shape Healing": [
       "Airframe Composites Designer (AICOA)",
@@ -10383,7 +11555,10 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Composites Laser Projection": [
       "Airframe Composites Manufacturing Engineer (AICMA)",
@@ -10428,7 +11603,12 @@
       "Product Design Presenter (PDP)",
       "Product Designer (PRDEL)",
       "Structural Packaging Designer (PKD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)"
     ],
     "Experience Models Preparation": [
       "Appearance & Rendering Designer (APPPH)",
@@ -10443,7 +11623,10 @@
       "Naval Architect (NAARM)",
       "Product Design Presenter (PDP)",
       "Reverse Engineer (RPE)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Tire Designer (TIRGI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)"
     ],
     "Human Design": [
       "Appearance & Rendering Designer (APPPH)",
@@ -10474,7 +11657,13 @@
       "Product Mechanical Designer for Home & Lifestyle (PRMDL)",
       "Structural Packaging Designer (PKD)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)"
     ],
     "Live Rendering": [
       "Appearance & Rendering Designer (APPPH)",
@@ -10503,7 +11692,12 @@
       "Product Designer (PRDEL)",
       "Structural Packaging Designer (PKD)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)"
     ],
     "Product Perception Experience": [
       "Appearance & Rendering Designer (APPPH)",
@@ -10521,7 +11715,8 @@
       "Packaging Designer (PADEG)",
       "Product Creative Designer (PRCRL)",
       "Product Design Presenter (PDP)",
-      "Product Designer (PRDEL)"
+      "Product Designer (PRDEL)",
+      "Vehicle Creative Designer (HEMCI)"
     ],
     "Rendering Scene Design": [
       "Appearance & Rendering Designer (APPPH)",
@@ -10551,7 +11746,12 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Visual Experience Designer (CSX)"
     ],
     "Virtual Reality Reviewer": [
       "Appearance & Rendering Designer (APPPH)",
@@ -10567,7 +11767,10 @@
       "Packaging Designer (PADEG)",
       "Product Creative Designer (PRCRL)",
       "Product Designer (PRDEL)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)",
+      "Virtual Reality Reviewer (VIZ)"
     ],
     "Visual Experience Content Collection": [
       "Appearance & Rendering Designer (APPPH)",
@@ -10579,7 +11782,9 @@
       "Human Experience Specialist (CAHFA)",
       "Lighting & Perceived Quality Engineer (PEQET)",
       "Product Creative Designer (PRCRL)",
-      "Product Designer (PRDEL)"
+      "Product Designer (PRDEL)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Visual Experience Content Collection (VCC)"
     ],
     "Electrical & Electronics Architecture": [
       "Avionics Architect (AVARA)",
@@ -10634,7 +11839,10 @@
       "Structural Generative Designer (SGD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Converter for ICEM Surf": [
       "Boat Interior Designer (BOINM)",
@@ -10659,7 +11867,11 @@
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Creative Design Experience": [
       "Boat Interior Designer (BOINM)",
@@ -10675,7 +11887,10 @@
       "Product Creative Designer (PRCRL)",
       "Product Designer (PRDEL)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Imagine & Shape": [
       "Boat Interior Designer (BOINM)",
@@ -10701,7 +11916,10 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Mechanical Systems Experience": [
       "Boat Interior Designer (BOINM)",
@@ -10713,7 +11931,8 @@
       "Mechanical Motion Designer (MMO)",
       "Mechatronic Systems Engineer (SQK)",
       "Powertrain & Chassis Engineer (POCET)",
-      "Product Mechanical Designer for Home & Lifestyle (PRMDL)"
+      "Product Mechanical Designer for Home & Lifestyle (PRMDL)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Motion Design": [
       "Boat Interior Designer (BOINM)",
@@ -10725,7 +11944,8 @@
       "Mechatronic Systems Engineer (SQK)",
       "Motion Designer (MKM)",
       "Powertrain & Chassis Engineer (POCET)",
-      "Product Mechanical Designer for Home & Lifestyle (PRMDL)"
+      "Product Mechanical Designer for Home & Lifestyle (PRMDL)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Natural Sketch": [
       "Boat Interior Designer (BOINM)",
@@ -10747,7 +11967,10 @@
       "Structural Packaging Designer (PKD)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)",
+      "Vehicle Creative Designer (HEMCI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Sheet Metal Design": [
       "Boat Interior Designer (BOINM)",
@@ -10777,7 +12000,9 @@
       "Stamping Die Engineer (STDEI)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Generative Designer (SGD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Static Study": [
       "Boat Interior Designer (BOINM)",
@@ -10788,7 +12013,8 @@
       "Mechanical Engineer (M3K)",
       "Mechanical Motion Designer (MMO)",
       "Motion Designer (MKM)",
-      "Product Mechanical Designer for Home & Lifestyle (PRMDL)"
+      "Product Mechanical Designer for Home & Lifestyle (PRMDL)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Weld Design": [
       "Boat Interior Designer (BOINM)",
@@ -10812,7 +12038,9 @@
       "SheetMetal Designer (SMW)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structural Generative Designer (SGD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Systems Engineer for Education (UYS)",
+      "Tire Designer (TIRGI)"
     ],
     "Automotive BIW Design": [
       "Body Structure Designer (BODET)"
@@ -10829,7 +12057,10 @@
       "Stamping Die Engineer (STDEI)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Functional Shape Design": [
       "Body Structure Designer (BODET)"
@@ -10848,7 +12079,10 @@
       "Powertrain & Chassis Engineer (POCET)",
       "Product Designer (PRDEL)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Virtual to Real Shape Morphing": [
       "Body Structure Designer (BODET)",
@@ -10860,7 +12094,9 @@
       "Reverse Engineer (RPE)",
       "Stamping Die Engineer (STDEI)",
       "Structural Electronics Engineer for High-Tech (STEEH)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Building & Civil Structures Design": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11071,7 +12307,9 @@
       "Building & Civil Engineer for Education (UYA)",
       "Engineering Expert for Education (UYD)",
       "Mechatronic Systems Engineer (SQK)",
-      "Multidiscipline Schematic Designer (SHE)"
+      "Multidiscipline Schematic Designer (SHE)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)"
     ],
     "Engineering Rules Capture": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11080,7 +12318,9 @@
       "Building and Civil 3D Fluid Engineer (BCFLC)",
       "Civil Engineer (CIENC)",
       "Design Automation Engineer (TED)",
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)"
     ],
     "Engineering Templates": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11089,7 +12329,9 @@
       "Building and Civil 3D Fluid Engineer (BCFLC)",
       "Civil Engineer (CIENC)",
       "Design Automation Engineer (TED)",
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)"
     ],
     "FreeStyle Shape Design": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11105,14 +12347,20 @@
       "Product Designer (PRDEL)",
       "Structure Designer for Marine and Offshore (SHSTM)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Tire Designer (TIRGI)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Functional & Logical Design": [
       "Building & Civil Engineer for Education (UYA)",
       "Dynamic Systems Engineer (SNK)",
       "Engineering Expert for Education (UYD)",
       "Mechatronic Systems Engineer (SQK)",
-      "Multidiscipline Schematic Designer (SHE)"
+      "Multidiscipline Schematic Designer (SHE)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)"
     ],
     "Generative Electrical 3D Design": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11161,7 +12409,9 @@
     "HVAC Systems Design": [
       "Building & Civil Engineer for Education (UYA)",
       "Engineering Expert for Education (UYD)",
-      "Multidiscipline Schematic Designer (SHE)"
+      "Multidiscipline Schematic Designer (SHE)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)"
     ],
     "Hanger Design": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11184,7 +12434,9 @@
       "Civil Engineer (CIENC)",
       "Company Apps Builder (KAC)",
       "Design Automation Engineer (TED)",
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)"
     ],
     "Know-how Apps Resources": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11194,7 +12446,9 @@
       "Civil Engineer (CIENC)",
       "Company Apps Builder (KAC)",
       "Design Automation Engineer (TED)",
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)"
     ],
     "Lattice Design": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11209,7 +12463,9 @@
       "Building and Civil 3D Fluid Engineer (BCFLC)",
       "Civil Engineer (CIENC)",
       "Design Automation Engineer (TED)",
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)"
     ],
     "Model Assembly Design": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11278,12 +12534,16 @@
       "Building & Civil Engineer for Education (UYA)",
       "Engineering Expert for Education (UYD)",
       "Mechatronic Systems Engineer (SQK)",
-      "Multidiscipline Schematic Designer (SHE)"
+      "Multidiscipline Schematic Designer (SHE)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)"
     ],
     "Quality Rules Capture": [
       "Building & Civil Engineer for Education (UYA)",
       "Design Automation Engineer (TED)",
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Templates & Rules Designer (TER)",
+      "Templates, Optimization & Rules Designer (TEO)"
     ],
     "Station Administration": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11330,7 +12590,10 @@
       "Dynamic Systems Engineer (SNK)",
       "Engineering Expert for Education (UYD)",
       "Mechatronic Systems Engineer (SQK)",
-      "Multidiscipline Schematic Designer (SHE)"
+      "Multidiscipline Schematic Designer (SHE)",
+      "Systems Engineer for Education (UYS)",
+      "Systems Schematic Engineer (TIC)",
+      "Systems Solution Architect (TUR)"
     ],
     "Terrain Preparation": [
       "Building & Civil Engineer for Education (UYA)",
@@ -11345,14 +12608,16 @@
     "Visual Scripting": [
       "Building & Civil Engineer for Education (UYA)",
       "Designer for Education (UYT)",
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Visual Script Designer (GGR)"
     ],
     "2D Layout Insight": [
       "Class-A Expert (CLMOT)",
       "Designer for Education (UYT)",
       "Engineering Expert for Education (UYD)",
       "Reverse Engineer (RPE)",
-      "Style & Class-A Modeler (ICD)"
+      "Style & Class-A Modeler (ICD)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "Digitized Shape to Surface": [
       "Class-A Expert (CLMOT)",
@@ -11360,27 +12625,32 @@
       "Engineering Expert for Education (UYD)",
       "Reverse Engineer (RPE)",
       "Structure Designer for Marine and Offshore (SHSTM)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)",
+      "Virtual & Real Reconstruction Designer (VRR)"
     ],
     "ICEM Design Experience": [
       "Class-A Expert (CLMOT)",
       "Designer for Education (UYT)",
       "Engineering Expert for Education (UYD)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)"
     ],
     "ICEM Shape Design": [
       "Class-A Expert (CLMOT)",
       "Designer for Education (UYT)",
       "Engineering Expert for Education (UYD)",
       "Style & Class-A Modeler (ICD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)"
     ],
     "ICEM Shape Morphing": [
       "Class-A Expert (CLMOT)",
       "Designer for Education (UYT)",
       "Engineering Expert for Education (UYD)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)"
     ],
     "3D Annotation Insight Web App": [
       "Collaborative Building & Civil Engineer for Education (UWA)",
@@ -11498,7 +12768,8 @@
       "Report Template Administrator (RGD)"
     ],
     "Systems Traceability": [
-      "Collaborative Systems Engineer for Education (UWS)"
+      "Collaborative Systems Engineer for Education (UWS)",
+      "Systems Traceability Analyst (TRY)"
     ],
     "Test Results Capture": [
       "Collaborative Systems Engineer for Education (UWS)"
@@ -11572,14 +12843,16 @@
       "Engineering Expert for Education (UYD)",
       "Mechanical & Shape Engineer (M3S)",
       "Mechanical Shape Refinement Designer (SUM)",
-      "Structure Designer for Marine and Offshore (SHSTM)"
+      "Structure Designer for Marine and Offshore (SHSTM)",
+      "Tire Designer (TIRGI)"
     ],
     "Human Animation Studio": [
       "Designer for Education (UYT)",
       "Engineering Expert for Education (UYD)",
       "Human Experience Designer (HXD)",
       "Human Experience Specialist (CAHFA)",
-      "Surface Modeler for Aerospace & Defense (SUMFA)"
+      "Surface Modeler for Aerospace & Defense (SUMFA)",
+      "Transportation Designer (CDT)"
     ],
     "Structural Package": [
       "Designer for Education (UYT)",
@@ -11589,11 +12862,13 @@
     ],
     "Behavior Experience": [
       "Dynamic Systems Engineer (SNK)",
-      "Mechatronic Systems Engineer (SQK)"
+      "Mechatronic Systems Engineer (SQK)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Behavior Modeling": [
       "Dynamic Systems Engineer (SNK)",
-      "Mechatronic Systems Engineer (SQK)"
+      "Mechatronic Systems Engineer (SQK)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Electrical Manufacturing Preparation": [
       "Electrical 3D & Manufacturing Engineer (ELM)",
@@ -11638,7 +12913,8 @@
       "Mold & Tooling Designer (MTG)"
     ],
     "Design Optimization": [
-      "Engineering Expert for Education (UYD)"
+      "Engineering Expert for Education (UYD)",
+      "Templates, Optimization & Rules Designer (TEO)"
     ],
     "Design Synthesis": [
       "Engineering Expert for Education (UYD)"
@@ -11747,10 +13023,12 @@
       "Engineering Expert for Education (UYD)"
     ],
     "Systems FMU Export": [
-      "FMU Export (FMU)"
+      "FMU Export (FMU)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Systems Simulink Export": [
-      "FMU Export (FMU)"
+      "FMU Export (FMU)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Steel Connection Design": [
       "Frame Structure Designer (FRSTE)",
@@ -11809,7 +13087,8 @@
       "Naval Architect (NAARM)"
     ],
     "Process modeling and Engineering Library": [
-      "Process modeling and Engineering Library (ASZ)"
+      "Process modeling and Engineering Library (ASZ)",
+      "Systems Engineer for Education (UYS)"
     ],
     "Rigid Flex Circuit Board": [
       "Product Enclosure Engineer for High-Tech (PREEH)",
@@ -11834,7 +13113,184 @@
       "Systems 3D Routing Engineer (S3R)"
     ],
     "Systems Aviation Library": [
-      "Systems Aviation Library (AVZ)"
+      "Systems Aviation Library (AVZ)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Battery Library": [
+      "Systems Battery Library (BTZ)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Behavior Optimization": [
+      "Systems Behavior Optimization (DOY)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Brushless DC Drives Library": [
+      "Systems Brushless DC Drives Library (DCZ)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems C Code Export": [
+      "Systems C Code Export (XCS)"
+    ],
+    "Systems ClaRa Plus Library": [
+      "Systems ClaRa Plus Library (CRZ)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Cooling Library": [
+      "Systems Cooling Library (CLZ)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Electric Power Library": [
+      "Systems Electric Power Library (EWZ)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Electrified Power Train Library": [
+      "Systems Electrified Power Train Library (ETZ)",
+      "Systems Engineer for Education (UYS)"
+    ],
+    "CATIA Systems TIL Hydrogen Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems TIL Hydrogen Library (HNZ)"
+    ],
+    "CATIA Systems TIL Mobile Air Conditioning Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems TIL Mobile Air Conditioning Library (HMZ)"
+    ],
+    "CATIA Systems TIL Thermal Storages Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems TIL Thermal Storages Library (TTZ)"
+    ],
+    "Systems Engines Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems VeSyMA Engines Library (EIZ)"
+    ],
+    "Systems Flexible Bodies Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Flexible Bodies Library (FBZ)"
+    ],
+    "Systems Flight Dynamics Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Flight Dynamics Library (FDZ)"
+    ],
+    "Systems Fluid Dynamics Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Fluid Dynamics Library (FLZ)"
+    ],
+    "Systems Fluid Power Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Fluid Power Library (FPZ)"
+    ],
+    "Systems HVAC Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems HVAC Library (HVZ)"
+    ],
+    "Systems Human Comfort Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Human Comfort Library (HCZ)"
+    ],
+    "Systems Hydrogen Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Hydrogen Library (HYZ)"
+    ],
+    "Systems Industrial Process Simulation Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Industrial Process Simulation Library (PRZ)"
+    ],
+    "Systems Pneumatics Library": [
+      "Systems Engineer for Education (UYS)",
+      "Systems Pneumatic Library (PMZ)"
+    ],
+    "Systems Thermodynamics Connector": [
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems VeSyMA Library": [
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems VeSyMA Powertrain Library": [
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems VeSyMA Suspensions Library": [
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Wind Power Library": [
+      "Systems Engineer for Education (UYS)"
+    ],
+    "Systems Exp. Player": [
+      "Systems Experience Tester (PEV)"
+    ],
+    "Installing Systems Experience Tester Role (PEV)": [
+      "Installation Notes"
+    ],
+    "Failure Modes Effects Analysis": [
+      "Systems Failure Analyst (SQA)"
+    ],
+    "Preliminary Risk Assessment": [
+      "Systems Failure Analyst (SQA)"
+    ],
+    "Systems Architecture Design": [
+      "Systems Multi-Views Architect (SVK)"
+    ],
+    "Fault Tree Analysis": [
+      "Systems Safety Designer (SFY)"
+    ],
+    "Installing Systems Safety Designer Role (SFY)": [
+      "Installation Notes"
+    ],
+    "Systems Simulation Analysis": [
+      "Systems Simulation Analyst (SIA)"
+    ],
+    "Installing Systems Simulation Analyst Role (SIA)": [
+      "Installation Notes"
+    ],
+    "Systems Simulation Design": [
+      "Systems Simulation Designer (SID)"
+    ],
+    "Installing Systems Simulation Designer Role (SID)": [
+      "Installation Notes"
+    ],
+    "Systems Structure Design": [
+      "Systems Structure Designer (ARC)"
+    ],
+    "Installing Systems Structure Designer Role (ARC)": [
+      "Installation Notes"
+    ],
+    "CATIA Systems TIL Base Library": [
+      "Systems TIL Base Library (FNZ)"
+    ],
+    "Systems TIL Library": [
+      "Systems Thermal Library (TIZ)"
+    ],
+    "Installing Systems Traceability Analyst Role (TRY)": [
+      "Installation Notes"
+    ],
+    "Installing Systems Traceability Engineer Role (TRG)": [
+      "Installation Notes"
+    ],
+    "Systems Exp. Validation": [
+      "Virtual Systems Experience Designer (SEV)"
+    ],
+    "Installing Virtual Systems Experience Designer Role (SEV)": [
+      "Installation Notes"
+    ],
+    "Business Insight Content": [
+      "Weight and Balance Analyst (KPK)"
+    ],
+    "Business Performance Assessment": [
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
+    ],
+    "Business Planner": [
+      "Weight and Balance Analyst (KPK)"
+    ],
+    "Business Target Definition": [
+      "Weight and Balance Analyst (KPK)"
+    ],
+    "Business Value Definition": [
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
+    ],
+    "Weight and Balance": [
+      "Weight and Balance Analyst (KPK)",
+      "Weight and Balance Collaboration Designer (KPY)"
     ]
   }
 }

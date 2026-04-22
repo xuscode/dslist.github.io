@@ -8,16 +8,29 @@
 
 ## 首次使用准备
 
-### 1. 安装Python依赖
+### 方法1: 使用TXT文件（推荐，更准确）
+
+```bash
+cd scripts
+python txt_to_json.py
+```
+
+这个脚本会:
+- 从 `data/CATIA_ROLES/roles.txt` 读取角色和APP数据
+- 自动解析角色名称和APP列表
+- 生成 `data/roles_apps.json` 文件
+
+**优点**: 
+- ✅ 100%准确，无识别错误
+- ✅ 不需要安装额外依赖
+- ✅ 处理速度快
+- ✅ 包含更多角色(12个 vs 9个)
+
+### 方法2: 从PDF提取（备选方案）
 
 ```bash
 cd scripts
 pip install -r requirements.txt
-```
-
-### 2. 运行PDF转换脚本
-
-```bash
 python pdf_to_json.py
 ```
 
@@ -46,19 +59,24 @@ python -m http.server 8080
 
 ## 数据说明
 
-当前已解析9个CATIA角色,包含19个不同的APP:
+当前已解析**12个CATIA角色**,包含**95个不同的APP**:
 
 **角色示例:**
-- Building Design Engineer Role (BCMDC)
-- Building Designer Role (BUDEC)
-- Construction Designer Role (VDCEC)
-- Visual Script Designer Role (GGR)
+- 3D Tolerancing & Annotation Designer (TAD)
+- Accommodation Designer (ACT)
+- Accommodation Designer for Marine and Offshore (ACDEM)
+- Airframe Composites Designer (AICOA)
+- Boat Interior Designer (BOINM)
+- Body Structure Designer (BODET)
+- Building Design Engineer Role (BCMDC) - 来自PDF
 - 等等...
 
 **APP示例:**
-- IFC, IGES, STEP (文件格式)
-- COLLADA, FBX, OBJ (3D格式)
-- PDM, CAD, HVAC (应用类型)
+- Sheet Metal Design (钣金设计)
+- 2D Layout for 3D Design
+- 3D Annotation Experience
+- Generative Shape Design
+- Composites Design
 - 等等...
 
 ## 自定义调整
